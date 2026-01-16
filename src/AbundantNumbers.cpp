@@ -7,7 +7,7 @@
 
 using namespace std;
 
-string abundantNum(){
+string abundantNum() {
     //For testing purposes. Please leave in the program
     string testResult;
     stringstream ss_input;
